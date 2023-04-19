@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27037738642",
+    "project_id": "health-care-app-b2099",
+    "storage_bucket": "health-care-app-b2099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27037738642:android:2e9d175bb01a2c7b49a84b",
+        "android_client_info": {
+          "package_name": "com.mhutshow.daktarlagbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27037738642-bbkhu8es1fvvm1la3h96vnr3gbbcfoov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCintpczW3kSPAd6czq8c9sxolg95AB4O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27037738642-bbkhu8es1fvvm1la3h96vnr3gbbcfoov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
